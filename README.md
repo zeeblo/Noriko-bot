@@ -26,7 +26,7 @@ Noriko doesn't fancy following boring rules or listening to people but deep down
 
 # Setup
 
-1. You need a config.json file in the main directory
+1. You need a config.json file in the main directory (Also make a new folder and name it 'data')
 
 <img src=".\assets\info\setup_readme_imgs\config.png" alt="config">
 
