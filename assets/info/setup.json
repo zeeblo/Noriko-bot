@@ -1,0 +1,54 @@
+{
+    "palm": {
+        "step_1": {
+            "desc": "Go to https://developers.generativeai.google/products/palm and click \"Get your API key\" ",
+            "img": "/assets/info/setup_imgs/palm/step1.png"
+        },
+        "step": {
+            "desc": "If you see this page make sure you're signed in to a google account and your region is listed here https://developers.generativeai.google/available_regions (If your region is not listed then you have to continue using the default token)",
+            "img": "/assets/info/setup_imgs/palm/step.png"
+        },
+        "step_2": {
+            "desc": "If you're signed into a google account you'll be taken to this page (If you're not signed in, simply sign in and you'll be taken here). Click Create API key.",
+            "img": "/assets/info/setup_imgs/palm/step2.png"
+        },
+        "step_3": {
+            "desc": "Copy your API key (Make sure you store it somewhere safe and don't expose it to anyone)",
+            "img": "/assets/info/setup_imgs/palm/step3.png"
+        },
+        "step_4": {
+            "desc": "Go to `/settings` and click 'Chat Model'",
+            "img": "/assets/info/setup_imgs/palm/step4.png"
+        },
+        "step_5": {
+            "desc": "Enter the model you want to use (palm) and paste in your token. (Remember to never expose it, if you think you leaked it, you can always regenerate a new one)",
+            "img": "/assets/info/setup_imgs/palm/step5.png"
+        }
+    },
+    "gpt": {
+        "step_1": {
+            "desc": "Go to https://platform.openai.com/api-keys and login/sign up",
+            "img": "/assets/info/setup_imgs/gpt/step1.png"
+        },
+        "step_2": {
+            "desc": "Click \"Create new secret key\"",
+            "img": "/assets/info/setup_imgs/gpt/step2.png"
+        },
+        "step_3": {
+            "desc": "Enter a name and click create",
+            "img": "/assets/info/setup_imgs/gpt/step3.png"
+        },
+        "step_4": {
+            "desc": "Copy your token (Do not expose this, if you believe it has been leaked you can generate a new one)",
+            "img": "/assets/info/setup_imgs/gpt/step4.png"
+        },
+        "step_5": {
+            "desc": "Go to `/settings` and click 'Chat Model'",
+            "img": "/assets/info/setup_imgs/gpt/step5.png"
+        },
+        "step_6": {
+            "desc": "Enter the model you want to use (gpt) and paste in your token. (Remember to never expose this, if you think you leaked it, you can always regenerate a new one)",
+            "img": "/assets/info/setup_imgs/gpt/step6.png"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "desc": "Noriko's commands",
+    "cmds": {
+        "Noriko": "`talk`, `keywords`",
+        "Utils": "`settings`, `ai-models`"
+    }
+}

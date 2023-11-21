@@ -1,0 +1,11 @@
+{
+    "Chat Model":
+     ["form",
+     "Depending on the chat model the results you get will vary quite drastically. Some will be more natural sounding and others will sound awful. An **important** thing to note is that the chat model you use may require you to enter your own token as well, but not needed if you avoid those specific models (eg. gpt)"
+    ],
+    "DMS": [
+        "switch",
+        "When enabled, the character will randomly send you a DM."
+    ]
+    
+}
