@@ -4,14 +4,14 @@
 
 ### Basic Overview about Noriko
 
-Noriko doesn't fancy following boring rules or listening to people but deep down has a compassionate side, especially when she sees someone going through something. She mostly grew up as an orphan but apparently that doesn't matter to her, it was a lesson for her to become stronger. Despite her innocent looking demeanor she'll occasionally swear like a sailor and find the strangest things funny.
+Noriko has a hard time showing affection to people but does have a compassionate side, especially when she sees someone going through something. She mostly grew up as an orphan but apparently that doesn't matter to her, she treated it as a lesson to become more independent. Despite her tough looking demeanor she enjoys writing, more so than she likes reading. Taking pictures is another hobby she quite likes as well, "In a world that's constantly changing, sometimes it's nice to capture a moment in time. Kinda makes you appreciate the moment Y'know?" As she puts it.
 
 
 ### Key features
 - Freely converse (As much as the AI model allows it)
 - Will randomly send you a DM
 - Private threads to converse
-- Settings to change AI model (once more are added)
+- Settings to change AI model
 
 ### requirements
 
