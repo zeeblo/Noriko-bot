@@ -47,7 +47,7 @@ key = Fernet.generate_key()
 print(str((key), 'utf-8'))
 ```
 
-5. Enter all your tokens
+5. Enter all your tokens in `config.json`
 
 <img src=".\assets\info\setup_readme_imgs\tokens.png" alt="tokens">
 
